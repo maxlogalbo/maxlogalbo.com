@@ -1,2 +1,2 @@
 # maxlogalbo.com
-Personal Website
+Code for my Personal Website - feel free to take a look at it at maxlogalbo.com!
